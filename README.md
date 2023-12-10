@@ -1,5 +1,7 @@
 # Chess-Board-Game-RPL
 
+The whole project is moved here[link](doc:https://github.com/ikhsansdqq/chess-board-game-rpl)
+
 This project exist for an Assignment in Programming class.
 
 The goal of this project is just to have a proper working chess game under Java 
